@@ -29,6 +29,8 @@
 		</Item>
 		<Item Name="Helpers" Type="Folder">
 			<Item Name="getTopMostBlockDiagram.vi" Type="VI" URL="../Helpers/getTopMostBlockDiagram.vi"/>
+			<Item Name="getViBlockDiagram.vi" Type="VI" URL="../Helpers/getViBlockDiagram.vi"/>
+			<Item Name="createNewObject.vi" Type="VI" URL="../Helpers/createNewObject.vi"/>
 		</Item>
 	</Item>
 </Library>
