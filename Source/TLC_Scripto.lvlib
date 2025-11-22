@@ -23,6 +23,7 @@
 			<Item Name="TextDecoration.lvclass" Type="LVClass" URL="../TextDecoration/TextDecoration.lvclass"/>
 			<Item Name="Wire.lvclass" Type="LVClass" URL="../Wire/Wire.lvclass"/>
 			<Item Name="BlockDiagram.lvclass" Type="LVClass" URL="../BlockDiagram/BlockDiagram.lvclass"/>
+			<Item Name="Terminal.lvclass" Type="LVClass" URL="../Terminal/Terminal.lvclass"/>
 		</Item>
 		<Item Name="Ctrls" Type="Folder">
 			<Item Name="mainTextProperties.ctl" Type="VI" URL="../Ctrls/mainTextProperties.ctl"/>
@@ -30,7 +31,7 @@
 		<Item Name="Helpers" Type="Folder">
 			<Item Name="getTopMostBlockDiagram.vi" Type="VI" URL="../Helpers/getTopMostBlockDiagram.vi"/>
 			<Item Name="getViBlockDiagram.vi" Type="VI" URL="../Helpers/getViBlockDiagram.vi"/>
-			<Item Name="createNewObject.vi" Type="VI" URL="../Helpers/createNewObject.vi"/>
+			<Item Name="createNewObject_byStyle.vi" Type="VI" URL="../Helpers/createNewObject_byStyle.vi"/>
 		</Item>
 	</Item>
 </Library>
