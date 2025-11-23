@@ -13,8 +13,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="example_addDecorations.vi" Type="VI" URL="../Examples/example_addDecorations.vi"/>
+			<Item Name="example_drawFlatFrame.vi" Type="VI" URL="../Examples/example_drawFlatFrame.vi"/>
 			<Item Name="example_getSelectedWires.vi" Type="VI" URL="../Examples/example_getSelectedWires.vi"/>
-			<Item Name="example_setTerminalPosition.vi" Type="VI" URL="../Examples/example_setTerminalPosition.vi"/>
+			<Item Name="example_moveTerminal.vi" Type="VI" URL="../Examples/example_moveTerminal.vi"/>
 			<Item Name="target1.vi" Type="VI" URL="../Examples/target1.vi"/>
 		</Item>
 		<Item Name="TLC_Scripto.lvlib" Type="Library" URL="../TLC_Scripto.lvlib"/>
@@ -28,6 +29,7 @@
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="RectCentroid.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectCentroid.vi"/>
 				<Item Name="TRef Traverse for References.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse for References.vi"/>
 				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
 				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
