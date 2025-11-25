@@ -25,6 +25,8 @@
 			<Item Name="BlockDiagram.lvclass" Type="LVClass" URL="../BlockDiagram/BlockDiagram.lvclass"/>
 			<Item Name="Terminal.lvclass" Type="LVClass" URL="../Terminal/Terminal.lvclass"/>
 			<Item Name="ControlTerminal.lvclass" Type="LVClass" URL="../ControlTerminal/ControlTerminal.lvclass"/>
+			<Item Name="Node.lvclass" Type="LVClass" URL="../Node/Node.lvclass"/>
+			<Item Name="Structure.lvclass" Type="LVClass" URL="../Structure/Structure.lvclass"/>
 		</Item>
 		<Item Name="Ctrls" Type="Folder">
 			<Item Name="mainTextProperties.ctl" Type="VI" URL="../Ctrls/mainTextProperties.ctl"/>
@@ -36,7 +38,7 @@
 			<Item Name="getTopMostBlockDiagram.vi" Type="VI" URL="../Helpers/getTopMostBlockDiagram.vi"/>
 			<Item Name="getViBlockDiagram.vi" Type="VI" URL="../Helpers/getViBlockDiagram.vi"/>
 			<Item Name="createNewObject_byStyle.vi" Type="VI" URL="../Helpers/createNewObject_byStyle.vi"/>
-			<Item Name="getunionRect.vi" Type="VI" URL="../Helpers/getunionRect.vi"/>
+			<Item Name="getUnionRect.vi" Type="VI" URL="../Helpers/getUnionRect.vi"/>
 		</Item>
 	</Item>
 </Library>

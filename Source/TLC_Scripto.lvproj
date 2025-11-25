@@ -18,6 +18,9 @@
 			<Item Name="example_moveTerminal.vi" Type="VI" URL="../Examples/example_moveTerminal.vi"/>
 			<Item Name="target1.vi" Type="VI" URL="../Examples/target1.vi"/>
 		</Item>
+		<Item Name="Tests" Type="Folder">
+			<Item Name="test_refType.vi" Type="VI" URL="../Tests/test_refType.vi"/>
+		</Item>
 		<Item Name="TLC_Scripto.lvlib" Type="Library" URL="../TLC_Scripto.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
