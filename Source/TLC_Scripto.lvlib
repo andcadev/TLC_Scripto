@@ -17,9 +17,10 @@
 			<Item Name="ILabelable.lvclass" Type="LVClass" URL="../ILabelable/ILabelable.lvclass"/>
 		</Item>
 		<Item Name="Classes" Type="Folder">
+			<Item Name="Generic.lvclass" Type="LVClass" URL="../Generic/Generic.lvclass"/>
+			<Item Name="GObject.lvclass" Type="LVClass" URL="../GObject/GObject.lvclass"/>
 			<Item Name="Control.lvclass" Type="LVClass" URL="../Control/Control.lvclass"/>
 			<Item Name="Decoration.lvclass" Type="LVClass" URL="../Decoration/Decoration.lvclass"/>
-			<Item Name="GObject.lvclass" Type="LVClass" URL="../GObject/GObject.lvclass"/>
 			<Item Name="TextDecoration.lvclass" Type="LVClass" URL="../TextDecoration/TextDecoration.lvclass"/>
 			<Item Name="Wire.lvclass" Type="LVClass" URL="../Wire/Wire.lvclass"/>
 			<Item Name="BlockDiagram.lvclass" Type="LVClass" URL="../BlockDiagram/BlockDiagram.lvclass"/>
