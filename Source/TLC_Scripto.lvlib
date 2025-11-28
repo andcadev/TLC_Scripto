@@ -36,6 +36,7 @@
 			<Item Name="direction.ctl" Type="VI" URL="../Ctrls/direction.ctl"/>
 		</Item>
 		<Item Name="Helpers" Type="Folder">
+			<Item Name="getClassHierarchyFromClassName.vi" Type="VI" URL="../Helpers/getClassHierarchyFromClassName.vi"/>
 			<Item Name="getTopMostBlockDiagram.vi" Type="VI" URL="../Helpers/getTopMostBlockDiagram.vi"/>
 			<Item Name="getViBlockDiagram.vi" Type="VI" URL="../Helpers/getViBlockDiagram.vi"/>
 			<Item Name="createNewObject_byStyle.vi" Type="VI" URL="../Helpers/createNewObject_byStyle.vi"/>
