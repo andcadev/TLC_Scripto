@@ -15,6 +15,7 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Interfaces" Type="Folder">
 			<Item Name="ILabelable.lvclass" Type="LVClass" URL="../ILabelable/ILabelable.lvclass"/>
+			<Item Name="ICreatable.lvclass" Type="LVClass" URL="../ICreatable/ICreatable.lvclass"/>
 		</Item>
 		<Item Name="Classes" Type="Folder">
 			<Item Name="Generic.lvclass" Type="LVClass" URL="../Generic/Generic.lvclass"/>
@@ -41,6 +42,7 @@
 			<Item Name="getViBlockDiagram.vi" Type="VI" URL="../Helpers/getViBlockDiagram.vi"/>
 			<Item Name="createNewObject_byStyle.vi" Type="VI" URL="../Helpers/createNewObject_byStyle.vi"/>
 			<Item Name="getUnionRect.vi" Type="VI" URL="../Helpers/getUnionRect.vi"/>
+			<Item Name="createNewObject_byObject.vi" Type="VI" URL="../Helpers/createNewObject_byObject.vi"/>
 		</Item>
 	</Item>
 </Library>

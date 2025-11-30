@@ -44,6 +44,7 @@
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
 		<Item Name="TLC_Scripto.lvlib:GObject.lvclass" Type="Parent" URL="../../GObject/GObject.lvclass"/>
+		<Item Name="TLC_Scripto.lvlib:ICreatable.lvclass" Type="Parent" URL="../../ICreatable/ICreatable.lvclass"/>
 	</Item>
 	<Item Name="TextDecoration.ctl" Type="Class Private Data" URL="TextDecoration.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -181,6 +182,15 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+		</Item>
+		<Item Name="getSupportedStyles.vi" Type="VI" URL="../getSupportedStyles.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!!Q!&amp;=X2Z&lt;'5!&amp;%"!!!(`````!!5'=X2Z&lt;'6T!!"!1(!!(A!!+B&amp;54%.@5W.S;8"U&lt;SZM&gt;GRJ9B:5:8BU2'6D&lt;X*B&gt;'FP&lt;CZM&gt;G.M98.T!!!,2U^C;G6D&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"!1(!!(A!!+B&amp;54%.@5W.S;8"U&lt;SZM&gt;GRJ9B:5:8BU2'6D&lt;X*B&gt;'FP&lt;CZM&gt;G.M98.T!!!+2U^C;G6D&gt;#"J&lt;A!!6!$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!%!!E#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!+!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
 		</Item>
 	</Item>
 </LVClass>
