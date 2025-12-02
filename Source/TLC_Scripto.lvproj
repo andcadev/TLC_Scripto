@@ -17,9 +17,11 @@
 			<Item Name="example_getSelectedWires.vi" Type="VI" URL="../Examples/example_getSelectedWires.vi"/>
 			<Item Name="example_moveTerminal.vi" Type="VI" URL="../Examples/example_moveTerminal.vi"/>
 			<Item Name="target1.vi" Type="VI" URL="../Examples/target1.vi"/>
+			<Item Name="target2.vi" Type="VI" URL="../Examples/target2.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="test_refType.vi" Type="VI" URL="../Tests/test_refType.vi"/>
+			<Item Name="test_supportedStyles.vi" Type="VI" URL="../Tests/test_supportedStyles.vi"/>
 		</Item>
 		<Item Name="TLC_Scripto.lvlib" Type="Library" URL="../TLC_Scripto.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">

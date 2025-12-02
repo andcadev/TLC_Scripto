@@ -43,6 +43,7 @@
 			<Item Name="createNewObject_byStyle.vi" Type="VI" URL="../Helpers/createNewObject_byStyle.vi"/>
 			<Item Name="getUnionRect.vi" Type="VI" URL="../Helpers/getUnionRect.vi"/>
 			<Item Name="createNewObject_byObject.vi" Type="VI" URL="../Helpers/createNewObject_byObject.vi"/>
+			<Item Name="classInvenventory.vi" Type="VI" URL="../Helpers/classInvenventory.vi"/>
 		</Item>
 	</Item>
 </Library>
