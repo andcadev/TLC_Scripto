@@ -35,6 +35,7 @@
 			<Item Name="point.ctl" Type="VI" URL="../Ctrls/point.ctl"/>
 			<Item Name="rectangle.ctl" Type="VI" URL="../Ctrls/rectangle.ctl"/>
 			<Item Name="direction.ctl" Type="VI" URL="../Ctrls/direction.ctl"/>
+			<Item Name="alignment.ctl" Type="VI" URL="../Ctrls/alignment.ctl"/>
 		</Item>
 		<Item Name="Helpers" Type="Folder">
 			<Item Name="getClassHierarchyFromClassName.vi" Type="VI" URL="../Helpers/getClassHierarchyFromClassName.vi"/>
