@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="example_addDecorations.vi" Type="VI" URL="../Examples/example_addDecorations.vi"/>
+			<Item Name="example_alignObjects.vi" Type="VI" URL="../Examples/example_alignObjects.vi"/>
 			<Item Name="example_getSelectedWires.vi" Type="VI" URL="../Examples/example_getSelectedWires.vi"/>
 			<Item Name="example_getSelectionRect.vi" Type="VI" URL="../Examples/example_getSelectionRect.vi"/>
 			<Item Name="example_moveTerminal.vi" Type="VI" URL="../Examples/example_moveTerminal.vi"/>
