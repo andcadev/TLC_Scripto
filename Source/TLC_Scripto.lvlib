@@ -46,6 +46,7 @@
 			<Item Name="createNewObject_byObject.vi" Type="VI" URL="../Helpers/createNewObject_byObject.vi"/>
 			<Item Name="classInvenventory.vi" Type="VI" URL="../Helpers/classInvenventory.vi"/>
 			<Item Name="alignObjects.vi" Type="VI" URL="../Helpers/alignObjects.vi"/>
+			<Item Name="areOverlapped.vi" Type="VI" URL="../Helpers/areOverlapped.vi"/>
 		</Item>
 	</Item>
 </Library>

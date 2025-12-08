@@ -15,6 +15,7 @@
 			<Item Name="example_addDecorations.vi" Type="VI" URL="../Examples/example_addDecorations.vi"/>
 			<Item Name="example_alignObjects1.vi" Type="VI" URL="../Examples/example_alignObjects1.vi"/>
 			<Item Name="example_alignObjects2.vi" Type="VI" URL="../Examples/example_alignObjects2.vi"/>
+			<Item Name="example_areOverlapped.vi" Type="VI" URL="../Examples/example_areOverlapped.vi"/>
 			<Item Name="example_getSelectedWires.vi" Type="VI" URL="../Examples/example_getSelectedWires.vi"/>
 			<Item Name="example_getSelectionRect.vi" Type="VI" URL="../Examples/example_getSelectionRect.vi"/>
 			<Item Name="example_moveTerminal.vi" Type="VI" URL="../Examples/example_moveTerminal.vi"/>
