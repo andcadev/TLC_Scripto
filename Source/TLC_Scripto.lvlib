@@ -29,6 +29,7 @@
 			<Item Name="ControlTerminal.lvclass" Type="LVClass" URL="../ControlTerminal/ControlTerminal.lvclass"/>
 			<Item Name="Node.lvclass" Type="LVClass" URL="../Node/Node.lvclass"/>
 			<Item Name="Structure.lvclass" Type="LVClass" URL="../Structure/Structure.lvclass"/>
+			<Item Name="AbstractDiagram.lvclass" Type="LVClass" URL="../AbstractDiagram/AbstractDiagram.lvclass"/>
 		</Item>
 		<Item Name="Ctrls" Type="Folder">
 			<Item Name="mainTextProperties.ctl" Type="VI" URL="../Ctrls/mainTextProperties.ctl"/>

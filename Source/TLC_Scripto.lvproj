@@ -24,6 +24,7 @@
 			<Item Name="target2.vi" Type="VI" URL="../Examples/target2.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
+			<Item Name="test_blockDiagramRef.vi" Type="VI" URL="../Tests/test_blockDiagramRef.vi"/>
 			<Item Name="test_refType.vi" Type="VI" URL="../Tests/test_refType.vi"/>
 			<Item Name="test_supportedStyles.vi" Type="VI" URL="../Tests/test_supportedStyles.vi"/>
 		</Item>
@@ -42,11 +43,9 @@
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="RectCentroid.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectCentroid.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
-				<Item Name="TRef Traverse for References.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse for References.vi"/>
-				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
-				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
-				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
 			</Item>
+			<Item Name="unused_getSelectedObjects.vi" Type="VI" URL="../BlockDiagram/unused_getSelectedObjects.vi"/>
+			<Item Name="unused_insertSpace.vi" Type="VI" URL="../BlockDiagram/unused_insertSpace.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
