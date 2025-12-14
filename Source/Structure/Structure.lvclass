@@ -67,7 +67,18 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="Protected" Type="Folder"/>
+	<Item Name="Protected" Type="Folder">
+		<Item Name="applyInsertSpaceX.vi" Type="VI" URL="../applyInsertSpaceX.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!F%62-1V^49X*J=(2P,GRW&lt;'FC%6.U=H6D&gt;(6S:3ZM&gt;G.M98.T!!V4&gt;(*V9X2V=G5A&lt;X6U!!V!"A!':'6M&gt;'&amp;:!!!.1!9!"G2F&lt;(2B7!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!(1!-!!8A!"U!$!!&amp;Z!$I!]1!!!!!!!!!#%62-1V^49X*J=(2P,GRW&lt;'FC#8"P;7ZU,G.U&lt;!!71&amp;!!!A!*!!I'&lt;X*J:WFO!!!]1(!!(A!!*2&amp;54%.@5W.S;8"U&lt;SZM&gt;GRJ9B&amp;4&gt;(*V9X2V=G5O&lt;(:D&lt;'&amp;T=Q!-5X2S&gt;7.U&gt;8*F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!9!"!!(!!1!#!!%!!M!$!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!3!!!!!!!!!")!!!!!!!!!#A!!!!!!!!!1!!!!EA!!!!!"!!U!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1351098896</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+		</Item>
+	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="getObjectRefs.vi" Type="VI" URL="../getObjectRefs.vi">

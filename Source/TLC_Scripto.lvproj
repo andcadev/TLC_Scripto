@@ -44,8 +44,6 @@
 				<Item Name="RectCentroid.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectCentroid.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 			</Item>
-			<Item Name="unused_getSelectedObjects.vi" Type="VI" URL="../BlockDiagram/unused_getSelectedObjects.vi"/>
-			<Item Name="unused_insertSpace.vi" Type="VI" URL="../BlockDiagram/unused_insertSpace.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
