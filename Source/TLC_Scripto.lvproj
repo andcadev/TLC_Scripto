@@ -19,9 +19,11 @@
 			<Item Name="example_getSelectedWires.vi" Type="VI" URL="../Examples/example_getSelectedWires.vi"/>
 			<Item Name="example_getSelectionRect.vi" Type="VI" URL="../Examples/example_getSelectionRect.vi"/>
 			<Item Name="example_insertSpace.vi" Type="VI" URL="../Examples/example_insertSpace.vi"/>
+			<Item Name="example_insertSpace3.vi" Type="VI" URL="../Examples/example_insertSpace3.vi"/>
 			<Item Name="example_moveTerminal.vi" Type="VI" URL="../Examples/example_moveTerminal.vi"/>
 			<Item Name="target1.vi" Type="VI" URL="../Examples/target1.vi"/>
 			<Item Name="target2.vi" Type="VI" URL="../Examples/target2.vi"/>
+			<Item Name="target3.vi" Type="VI" URL="../Examples/target3.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="test_blockDiagramRef.vi" Type="VI" URL="../Tests/test_blockDiagramRef.vi"/>

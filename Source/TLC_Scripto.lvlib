@@ -45,9 +45,11 @@
 			<Item Name="createNewObject_byStyle.vi" Type="VI" URL="../Helpers/createNewObject_byStyle.vi"/>
 			<Item Name="getUnionRect.vi" Type="VI" URL="../Helpers/getUnionRect.vi"/>
 			<Item Name="createNewObject_byObject.vi" Type="VI" URL="../Helpers/createNewObject_byObject.vi"/>
-			<Item Name="classInvenventory.vi" Type="VI" URL="../Helpers/classInvenventory.vi"/>
+			<Item Name="inventory.vi" Type="VI" URL="../Helpers/inventory.vi"/>
 			<Item Name="alignObjects.vi" Type="VI" URL="../Helpers/alignObjects.vi"/>
 			<Item Name="areOverlapped.vi" Type="VI" URL="../Helpers/areOverlapped.vi"/>
 		</Item>
 	</Item>
+	<Item Name="getScriptoObjFromClassName.vi" Type="VI" URL="../Helpers/getScriptoObjFromClassName.vi"/>
+	<Item Name="getScriptoObjFromClassName_core.vi" Type="VI" URL="../Helpers/getScriptoObjFromClassName_core.vi"/>
 </Library>
