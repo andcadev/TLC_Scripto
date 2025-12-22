@@ -48,8 +48,8 @@
 			<Item Name="inventory.vi" Type="VI" URL="../Helpers/inventory.vi"/>
 			<Item Name="alignObjects.vi" Type="VI" URL="../Helpers/alignObjects.vi"/>
 			<Item Name="areOverlapped.vi" Type="VI" URL="../Helpers/areOverlapped.vi"/>
+			<Item Name="getScriptoObjFromClassName.vi" Type="VI" URL="../Helpers/getScriptoObjFromClassName.vi"/>
+			<Item Name="getScriptoObjFromClassName_core.vi" Type="VI" URL="../Helpers/getScriptoObjFromClassName_core.vi"/>
 		</Item>
 	</Item>
-	<Item Name="getScriptoObjFromClassName.vi" Type="VI" URL="../Helpers/getScriptoObjFromClassName.vi"/>
-	<Item Name="getScriptoObjFromClassName_core.vi" Type="VI" URL="../Helpers/getScriptoObjFromClassName_core.vi"/>
 </Library>

@@ -24,11 +24,12 @@
 			<Item Name="target1.vi" Type="VI" URL="../Examples/target1.vi"/>
 			<Item Name="target2.vi" Type="VI" URL="../Examples/target2.vi"/>
 			<Item Name="target3.vi" Type="VI" URL="../Examples/target3.vi"/>
+			<Item Name="target4.vi" Type="VI" URL="../Examples/target4.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
-			<Item Name="test_blockDiagramRef.vi" Type="VI" URL="../Tests/test_blockDiagramRef.vi"/>
 			<Item Name="test_refType.vi" Type="VI" URL="../Tests/test_refType.vi"/>
 			<Item Name="test_supportedStyles.vi" Type="VI" URL="../Tests/test_supportedStyles.vi"/>
+			<Item Name="test_wire.vi" Type="VI" URL="../Tests/test_wire.vi"/>
 		</Item>
 		<Item Name="TLC_Scripto.lvlib" Type="Library" URL="../TLC_Scripto.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -42,6 +43,7 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
+				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="RectCentroid.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectCentroid.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
